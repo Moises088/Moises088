@@ -2,6 +2,7 @@
 
 - 🔭 Estou trabalhando atualmente Full-Stack na stack JavaScript/TypeScript
 - 🌱 Estou estudando Docker/Container e Microserviços no framework NestJS
+- 📚 Cursando atualmente Engenharia da Computação 8º Semestre
 - 🤔 Qualquer indicação ou ajuda sobre Docker é bem vinda.
 - ⚡ Toda vez que falo que trabalho com NestJS acham que estou falando de FrontEnd 😁
 - 😀 Maioria dos meu projetos são privados, mas pretendo lançar alguns públicos em breve 🚀
